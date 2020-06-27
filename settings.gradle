@@ -1,0 +1,3 @@
+rootProject.name='lb-library'
+include ':app'
+include ':lblibrary'
